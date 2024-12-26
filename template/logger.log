@@ -1,0 +1,108 @@
+Method:GET; URL:/marketing/input-job-order; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 7 ms
+Method:GET; URL:/marketing/input-job-order; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 1 ms
+Method:GET; URL:/input-job-order; Status:500; Message: Internal Server Error; DateTime: 24/12/2024; ResponseTime: 1458 ms
+Method:GET; URL:/input-job-order; Status:500; Message: Internal Server Error; DateTime: 24/12/2024; ResponseTime: 1306 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 1249 ms
+Method:GET; URL:/vendors/jSignature/libs/modernizr.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 3 ms
+Method:GET; URL:/vendors/jSignature/libs/jquery.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/images/icons/Logo%20United%20Transindo.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.CompressorBase30.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/jSignature.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.UndoButton.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.CompressorSVG.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/signhere/jSignature.SignHere.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 2 ms
+Method:GET; URL:/images/Logo%20Header%20PT%20UT.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/images/icons/Logo%20United%20Transindo.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 1303 ms
+Method:GET; URL:/vendors/jSignature/libs/modernizr.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/libs/jquery.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/jSignature.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.CompressorBase30.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.CompressorSVG.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.UndoButton.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/signhere/jSignature.SignHere.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/images/icons/Logo%20United%20Transindo.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/images/Logo%20Header%20PT%20UT.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 1334 ms
+Method:GET; URL:/vendors/jSignature/libs/modernizr.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/libs/jquery.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/jSignature.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.CompressorBase30.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.CompressorSVG.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.UndoButton.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/signhere/jSignature.SignHere.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/images/icons/Logo%20United%20Transindo.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/images/Logo%20Header%20PT%20UT.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/images/icons/Logo%20United%20Transindo.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:304; Message: Not Modified; DateTime: 24/12/2024; ResponseTime: 1499 ms
+Method:GET; URL:/vendors/jSignature/libs/modernizr.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/libs/jquery.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.CompressorBase30.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/jSignature.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.CompressorSVG.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/jSignature.UndoButton.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/jSignature/src/plugins/signhere/jSignature.SignHere.js; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/images/Logo%20Header%20PT%20UT.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/favicon.ico; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:304; Message: Not Modified; DateTime: 24/12/2024; ResponseTime: 1257 ms
+Method:GET; URL:/images/Logo%20Header%20PT%20UT.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:undefined; Message: undefined; DateTime: 24/12/2024; ResponseTime: NaN ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 1803 ms
+Method:GET; URL:/images/Logo%20Header%20PT%20UT.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 4 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 1 ms
+Method:GET; URL:/images/Logo%20Header%20PT%20UT.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:304; Message: Not Modified; DateTime: 24/12/2024; ResponseTime: 9043 ms
+Method:GET; URL:/images/Logo%20Header%20PT%20UT.png; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 3 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 2858 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:304; Message: Not Modified; DateTime: 24/12/2024; ResponseTime: 3694 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 11 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 1 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 4277 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:304; Message: Not Modified; DateTime: 24/12/2024; ResponseTime: 2532 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 2751 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 2287 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 2849 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 3 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 2660 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 24/12/2024; ResponseTime: 2836 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:POST; URL:/marketing/input-job-order; Status:404; Message: Not Found; DateTime: 24/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 26/12/2024; ResponseTime: 2862 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 26/12/2024; ResponseTime: 1 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 26/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 26/12/2024; ResponseTime: 0 ms
