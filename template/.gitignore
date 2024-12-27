@@ -1,2 +1,5 @@
 node_modules/
+touch
+vercel.json
+.gitignore
 .DS_Store
