@@ -1,8 +1,8 @@
 {
-  "name": "NobleUI",
+  "name": "United Transindo",
   "version": "1.4.1",
-  "description": "Responsive Bootstrap 4 Admin Template",
-  "main": "index.html",
+  "description": "United Transindo Admin Dashboard",
+  "main": "app.js",
   "engines": {
     "node": "14.x"
   },

@@ -501,7 +501,8 @@ const jobOrderModel = mongoose.model("job-order", jobOrderSchema);
 
 
 app.get("/", async(req, res) => {
-  res.render("index", {
+  // res.render("index", {
+  res.render("dashboard", {
     message:"",
     errorMessage:"",
     resultArr:[]
@@ -698,13 +699,13 @@ app.post("/report", async(req, res) => {
   
 });
 
-app.get("/jsignature", async(req, res) => {
-  res.render("jsignature", {
-    message:"",
-    errorMessage:"",
-    resultArr:[]
-  });
-});
+// app.get("/jsignature", async(req, res) => {
+//   res.render("jsignature", {
+//     message:"",
+//     errorMessage:"",
+//     resultArr:[]
+//   });
+// });
 
 // app.get("/marketing/entry-form", async(req, res) => {
 app.get("/entry-form", async(req, res) => {
@@ -718,23 +719,23 @@ app.get("/entry-form", async(req, res) => {
 });
 
 // app.get("/marketing/report", async(req, res) => {
-app.get("/report", async(req, res) => {
-  let { headerTable, contentTable } = await readGoogleSheet("database");
-  // res.render("marketing/report", {
-  res.render("report", {
-    headerTable,
-    contentTable,
-    message:"",
-    errorMessage:"",
-    resultArr:[]
-  });
-});
+// app.get("/report", async(req, res) => {
+//   let { headerTable, contentTable } = await readGoogleSheet("database");
+//   // res.render("marketing/report", {
+//   res.render("report", {
+//     headerTable,
+//     contentTable,
+//     message:"",
+//     errorMessage:"",
+//     resultArr:[]
+//   });
+// });
 
 // app.post("/marketing/report", async(req, res) => {
-app.post("/report", async(req, res) => {
-  // console.log("marketing report page posts")
-  console.log("report page posts")
-});
+// app.post("/report", async(req, res) => {
+//   // console.log("marketing report page posts")
+//   console.log("report page posts")
+// });
 
 // app.get("/marketing/job-order", async(req, res) => {
 app.get("/job-order", async(req, res) => {
