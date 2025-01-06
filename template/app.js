@@ -9,8 +9,8 @@ const { client_email, private_key } = secretKey;
 const { MongoClient } = require("mongodb");
 const mongoose = require("mongoose");
 var db;
-app.set('view engine', 'ejs');
 app.set('views', __dirname + '/views');
+app.set('view engine', 'ejs');
 app.use(express.static(`${__dirname}/assets`));
 // const model = require('./models');
 const axios = require('axios').default;
@@ -98,12 +98,16 @@ mongoose
     await client.connect();         
     console.log('Connected successfully to server');
     db = client.db(dbName);
-    app.listen(PORT, (err) => {
+    let server = app.listen(PORT, (err) => {
       if (err) {
         return console.log("ERROR", err);
       }
       console.log(`Node API App is running on port ${PORT}`);
     });
+    server.keepAliveTimeout = 120 * 1000;
+    server.headersTimeout = 120 * 1000;
+    // server.keepAliveTimeout = 70000;
+    // server.headersTimeout = 75000;
   }).catch((error) => {
     console.error(error)
   }).finally(() => client.close());

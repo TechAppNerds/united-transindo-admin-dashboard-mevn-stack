@@ -3,15 +3,23 @@
   "version": "1.4.1",
   "description": "United Transindo Admin Dashboard",
   "main": "app.js",
+  "type": "module",
   "engines": {
     "node": "22.x"
   },
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "start nodemon db",
+    "watch2": "start nodemon db --ignore frontend-js --ignore public/ && start webpack --watch"
   },
+  "keywords": [
+    "Nodejs",
+    "MongoDB",
+    "Excel"
+  ],
   "author": "",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "@mdi/font": "^5.4.55",
     "ace-builds": "^1.4.12",
