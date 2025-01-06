@@ -146,3 +146,12 @@ Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Mess
 Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 27/12/2024; ResponseTime: 0 ms
 Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 27/12/2024; ResponseTime: 0 ms
 Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 27/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/marketing/input-job-order; Status:404; Message: Not Found; DateTime: 30/12/2024; ResponseTime: 4 ms
+Method:GET; URL:/; Status:200; Message: OK; DateTime: 30/12/2024; ResponseTime: 262 ms
+Method:GET; URL:/input-job-order; Status:undefined; Message: undefined; DateTime: 30/12/2024; ResponseTime: NaN ms
+Method:GET; URL:/input-job-order; Status:undefined; Message: undefined; DateTime: 30/12/2024; ResponseTime: NaN ms
+Method:GET; URL:/input-job-order; Status:undefined; Message: undefined; DateTime: 30/12/2024; ResponseTime: NaN ms
+Method:GET; URL:/input-job-order; Status:200; Message: OK; DateTime: 30/12/2024; ResponseTime: 32164 ms
+Method:GET; URL:/vendors/core/perfect-scrollbar.min.js.map; Status:404; Message: Not Found; DateTime: 30/12/2024; ResponseTime: 1 ms
+Method:GET; URL:/vendors/progressbar.js/progressbar.min.js.map; Status:404; Message: Not Found; DateTime: 30/12/2024; ResponseTime: 0 ms
+Method:GET; URL:/vendors/moment/moment.min.js.map; Status:404; Message: Not Found; DateTime: 30/12/2024; ResponseTime: 0 ms

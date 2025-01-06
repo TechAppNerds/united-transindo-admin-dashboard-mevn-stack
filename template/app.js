@@ -85,13 +85,14 @@ require('dotenv').config();
 //               .finally(() => client.close());
 
 // Connection URL
-const url = 'mongodb://localhost:27017';                                    
+const url = 'mongodb://localhost:27017';
 const client = new MongoClient(url);
 
 const dbName = 'united-transindo';
 
+// .connect("mongodb://localhost:27017/united-transindo")
 mongoose
-  .connect("mongodb://localhost:27017/united-transindo")
+  .connect(`${url}/${dbName}`)
   .then(async () => {
     console.log('Connected to MongoDB');
     await client.connect();         
@@ -914,6 +915,8 @@ app.post("/input-job-order", async(req, res) => {
   try {
     // Connect to the MongoDB client
     await client.connect();
+
+    
 
     // Insert operation after successful connection
     const result = await db.collection('job-order').insertOne(req.body);
